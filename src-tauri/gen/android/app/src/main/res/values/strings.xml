@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">benchd</string>
+    <string name="main_activity_title">benchd</string>
+</resources>
