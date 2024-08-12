@@ -1,3 +1,3 @@
 package com.tauri.dev
 
-class MainActivity : TauriActivity()
+class MainActivity : TauriActivity() 
